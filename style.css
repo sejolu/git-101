@@ -1,0 +1,16 @@
+body {
+	font-family: Helvetica;
+	margin: 10%;
+}
+
+img {
+	height: 200px;
+	/*width: auto;*/
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
